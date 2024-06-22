@@ -20,6 +20,13 @@ Ces exercices ont pour but de fournir une pratique concrète sur des scénarios 
 - **Three-way Handshake** : Analyse du processus de connexion TCP via le three-way handshake.
 - **Basic Routing** : Configuration de routeurs pour permettre la communication entre différents réseaux.
 - **VLAN Configuration** : Création et configuration de VLANs pour segmenter le réseau.
+- **Network Address Translation (NAT)** : Configuration de NAT pour permettre la translation d'adresses IP privées en adresses IP publiques.
+- **Access Control Lists (ACL)** : Mise en place de listes de contrôle d'accès pour sécuriser et filtrer le trafic réseau.
+- **Static Routing** : Configuration du routage statique pour diriger le trafic entre différents réseaux.
+- **Dynamic Routing (RIP, OSPF)** : Configuration de protocoles de routage dynamique pour une gestion automatique des routes.
+- **Subnetting** : Création de sous-réseaux à partir d'un réseau principal pour une meilleure organisation et gestion des adresses IP.
+- **Wireless Configuration** : Configuration d'un réseau sans fil sécurisé.
+- **Troubleshooting** : Exercice de dépannage pour identifier et corriger des problèmes courants dans un réseau.
 
 ## Prérequis
 
